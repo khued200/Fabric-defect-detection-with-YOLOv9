@@ -32,16 +32,18 @@ After 200 epochs, mAP reach 93,7%
           thread error         80         29      0.753       0.84      0.868      0.453
 
 Results after 30 epochs:
-![results](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/50d521ed-0c8c-4d6f-8c57-470b6812b633)
 
-![F1_curve](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/163a90ef-e056-4ec5-b211-788af48236c3)
+|||
+|:-------------------------:|:-------------------------:|
+|![results](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/50d521ed-0c8c-4d6f-8c57-470b6812b633)|![F1_curve](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/163a90ef-e056-4ec5-b211-788af48236c3)|
 
 Detect result:
 
-![c1r1e1n10_jpg rf 302df4c62380ef189aeb08d7dbc54397](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/9a46c467-911c-4ba9-9b5d-fa2a72b50baf)
-![c1r1e2n26_jpg rf 397a04a8f89051055723d42e8d428c3f](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/81c616c7-323b-4e3c-88bb-f12cb5e3a32a)
-![c1r1e4n10_jpg rf c87f0bf21c6e9c849ae2b88c3be1a415](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/b19891ed-4b29-4e54-ac90-7b17deb5d0ad)
-![c1r1e3n26_jpg rf c06496de2418cb3b7ea2198ec487daca](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/6b416655-ca6b-4870-8b7c-7027183045a4)
+|||
+|:-------------------------:|:-------------------------:|
+|![c1r1e1n10_jpg rf 302df4c62380ef189aeb08d7dbc54397](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/9a46c467-911c-4ba9-9b5d-fa2a72b50baf)|![c1r1e2n26_jpg rf 397a04a8f89051055723d42e8d428c3f](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/81c616c7-323b-4e3c-88bb-f12cb5e3a32a)|
+|![c1r1e4n10_jpg rf c87f0bf21c6e9c849ae2b88c3be1a415](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/b19891ed-4b29-4e54-ac90-7b17deb5d0ad)|![c1r1e3n26_jpg rf c06496de2418cb3b7ea2198ec487daca](https://github.com/khued200/Fabric-defect-detection-with-YOLOv9/assets/139615350/6b416655-ca6b-4870-8b7c-7027183045a4)|
+
 
 
 
